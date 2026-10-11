@@ -32,11 +32,12 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I am a Master's student in Geospatial Information Sciences at the University of Maryland - College Park, with a background in Statistics and over two years of experience as a data analyst at the World Bank Group,  where I supported research, data analysis, and client advisory work. 
 
-I am a ... with a background in ... I work on ... using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I’m passionate about using spatial data to uncover local climate risks and environmental inequities that big national averages tend to hide, making sure data-driven evidence can lead to better policy. (Check out my [ spotlight feature](https://www.worldbank.org/en/news/feature/2026/03/06/meet-ha-dao-treasury-junior-analyst-24) to learn a bit more about my path!)
+
+Outside of school and work, you can usually find me running, baking and enjoying all-you-can-eat hot pot.
+
 
 </div>
 
