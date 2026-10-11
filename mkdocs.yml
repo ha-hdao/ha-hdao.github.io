@@ -11,7 +11,7 @@ site_name: "Ha Dao - Geospatial Portfolio"
 site_description: "Ha's Portfolio — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Ha Dao"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://your-username.github.io/your-repo-name"
+site_url: "https://ha-hdao.github.io/ha-hdao.github.io/"
 
 theme:
   name: material
@@ -26,8 +26,8 @@ theme:
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+      primary: blue
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
