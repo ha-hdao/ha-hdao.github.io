@@ -22,11 +22,11 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [hvandao@umd.edu](mailto:hvandao@umd.edu]) |
+| :fontawesome-brands-github: **GitHub** | [github.com/ha-hdao](https://github.com/ha-hdao) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/ha-dao/](https://linkedin.com/in/ha-dao-301919220/) |
+| :material-school: **Google Scholar** | [scholar.google.com/citations?user=hadao](https://scholar.google.com/citations?user=5tdYKycAAAAJ&hl=en]) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Ha_Dao_Resume_UMD_Oct.pdf){ .md-button .md-button--primary }
