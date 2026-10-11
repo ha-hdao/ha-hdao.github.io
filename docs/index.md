@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Ha Dao" class="profile-photo">
+  <h1>Ha Dao</h1>
+  <p><strong>Master Student</strong></p>
+  <p><em>Turning spatial data into insights | GIS | Remote Sensing | Python</em></p>
 </div>
 
 ---
@@ -36,11 +36,7 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a ... with a background in ... I work on ... using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
 
 </div>
 
@@ -53,7 +49,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Ha_Dao_Resume_UMD_Oct.pdf){ .md-button }
 
 
 ---
@@ -92,25 +88,25 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
-
+<!-- 
     - Leaflet.js, Folium, MapLibre GL JS
     - Cloud storage — AWS S3, Google Cloud Storage
     - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
+    - Streamlit for data-driven web apps -->
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
 
     ---
-
+<!-- 
     - PostgreSQL + PostGIS
     - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet -->
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
-    - Mission planning and flight operations
+    <!-- - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Point cloud processing: CloudCompare, PDAL -->
 </div>
 
 
@@ -118,5 +114,6 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/ha-hdao){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/ha-dao-301919220/?skipRedirect=true){ .md-button }
+

@@ -1,17 +1,14 @@
-# Geospatial Portfolio Template
+# Ha's Portfolio
 
-A ready-to-use portfolio website template for geospatial professionals — GIS analysts, remote
-sensing specialists, spatial data scientists, and GeoAI practitioners. Built with
-[MkDocs](https://www.mkdocs.org/) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
+✨ Pronouns are ha/ha/he/he bc I love giggling ✨
 
-Build a fully responsive personalized portfolio website - no Git or coding expertise required.
 
-**[LIVE PORTFOLIO](https://spatialthoughts.github.io/)**
+This is the repository for my portfolio website. The portfolio is hosted at https://ha-hdao.github.io/
 
-This template is part of our [Building Your Geospatial Portfolio Website](https://courses.spatialthoughts.com/geospatial-portfolio-workshop.html) workshop. Visit the workshop page for step-by-step instructions.
+ This website is built using the following tools
+ 
+* MkDocs
+* GitHub Pages
+* GitHub Actions
 
-![](portfolio.png)
-
-## License
-
-[MIT License](LICENSE)
+> Tip: You can get the portfolio template from [Spatial Thoughts](https://github.com/spatialthoughts/portfolio-website-template)
