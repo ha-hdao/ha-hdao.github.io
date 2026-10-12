@@ -32,7 +32,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-I am a Master's student in Geospatial Information Sciences at the University of Maryland - College Park, with a background in Statistics and over two years of experience as a data analyst at the World Bank Group,  where I supported research, data analysis, and client advisory work. 
+I am a Master's student in Geospatial Information Sciences program at the University of Maryland - College Park, with a background in Statistics. I had over two years of experience as a data analyst at the World Bank Group, where I supported research, data analysis, and client advisory work. 
 
 I’m passionate about using spatial data to uncover local climate risks and environmental inequities that big national averages tend to hide, making sure data-driven evidence can lead to better policy. (Check out my [ spotlight feature](https://www.worldbank.org/en/news/feature/2026/03/06/meet-ha-dao-treasury-junior-analyst-24) to learn a bit more about my path!)
 
