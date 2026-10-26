@@ -14,7 +14,7 @@ hide:
 
 ## Research Contributions
 
-*Works where I contributed as data analyst and am acknowledged accordingly.*
+*Works where I contributed as data analyst and was acknowledged accordingly.*
 
 - World Bank. (2025). *Reserve Management Survey Report 2025: Insights into Public Asset Management, the Fifth Edition.* © World Bank. *(Acknowledged contributor — end-to-end data collection, validation, and reconciliation across 130+ institutions.)* [http://hdl.handle.net/10986/43953](http://hdl.handle.net/10986/43953) License: CC BY-NC 3.0 IGO.
 
